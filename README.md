@@ -1,5 +1,6 @@
 # sensor-temperatura-simple
-Este es un ejemplo de la aplicación basica de IoT en cuanto a la interconexión de dispoitivos y el desarrollo de soluciones implmentadas en lenguajes como C++
+Este es un ejemplo de la aplicación basica de IoT en cuanto a la interconexión de dispoitivos y el desarrollo de soluciones implmentadas en lenguajes como C++ lo puedes encontrar en este link de tinkercad
+https://www.tinkercad.com/things/gJuhZnviUU7-ejemplo-de-sensor-de-temperatura-con-alerta-por-leds-c?sharecode=Gz8_ZRXL020taR6jUubrNU8R1hknTBPbBserzD1IJ4U
 
 # Monitor de Temperatura con Alerta Visual y Sonora
 ![image](https://github.com/user-attachments/assets/fb5125e5-b5b9-4b36-ba85-64ce027602f2)
